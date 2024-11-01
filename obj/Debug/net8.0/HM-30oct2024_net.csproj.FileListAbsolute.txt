@@ -1,0 +1,14 @@
+/Users/admin/Documents/HM-30oct2024_net/bin/Debug/net8.0/HM-30oct2024_net
+/Users/admin/Documents/HM-30oct2024_net/bin/Debug/net8.0/HM-30oct2024_net.deps.json
+/Users/admin/Documents/HM-30oct2024_net/bin/Debug/net8.0/HM-30oct2024_net.runtimeconfig.json
+/Users/admin/Documents/HM-30oct2024_net/bin/Debug/net8.0/HM-30oct2024_net.dll
+/Users/admin/Documents/HM-30oct2024_net/bin/Debug/net8.0/HM-30oct2024_net.pdb
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.AssemblyInfoInputs.cache
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.AssemblyInfo.cs
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.dll
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/refint/HM-30oct2024_net.dll
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.pdb
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.genruntimeconfig.cache
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/ref/HM-30oct2024_net.dll
