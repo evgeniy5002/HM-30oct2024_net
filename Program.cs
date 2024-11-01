@@ -1,4 +1,4 @@
-﻿using System.Numerics;
+﻿using HW;
 
 Complex f1 = new Complex(1, 2);
 Complex f2 = new Complex(1, 2);

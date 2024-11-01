@@ -12,3 +12,4 @@
 /Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.pdb
 /Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.genruntimeconfig.cache
 /Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/ref/HM-30oct2024_net.dll
+/Users/admin/Documents/HM-30oct2024_net/obj/Debug/net8.0/HM-30oct2024_net.sourcelink.json
